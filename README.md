@@ -1,5 +1,5 @@
 `How to run`
-    1. cd recipefinder
+    1. cd dishDetective
     2. npm install
     3. npm start
 
